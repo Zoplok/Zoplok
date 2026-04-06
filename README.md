@@ -15,6 +15,6 @@
   ✨ Anime Energy ✨
 </h1>
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHczMmZkZmhzaDFpbHluM2Z4MmwwNGZtMmtoNmM2OGNwa2ZhMXA3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/udK21RQeWtaGQ/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
-<h2 font="semi-bold">
-  *“Coding is my ninjutsu, gaming is my quest.”*
+<h2 align="center" font="semi-bold">
+  “Coding is my ninjutsu, gaming is my quest.”
 </h2>
