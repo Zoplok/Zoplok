@@ -18,19 +18,29 @@
 </h5>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
 ---
+## 🎮 Anime Gamer Stats
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Zoplok&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoplok&layout=compact&theme=tokyonight&title_color=ff79c6&text_color=ffffff&bg_color=0d1117)
 
 ---
 
-##  Fun Extras
+## 🎖 Gamer Achievements
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png)
+
+---
+
+## 🕹 Favorite Games
+- 🎮 Genshin Impact  
+- ⚔️ Final Fantasy XIV  
+- 🔫 Valorant  
+- 🐉 Monster Hunter  
+
+---
+
+## 🌸 Anime Energy
 ![Naruto Running](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
-*“Coding is my ninjutsu, creativity is my chakra.”*
-
----
-
-## 🗣 Languages
-- English  
-- Монгол  
+*“Coding is my ninjutsu, gaming is my quest.”*
