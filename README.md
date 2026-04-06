@@ -4,27 +4,11 @@
 <h1 align="center">✨ Gamer • Coding • Vibing ✨</h1>
 
 ---
-<h1 align="center">
-## 🏮 About Me 
-</h1>
-<h3 align="center">
-  <br>💻 **Developer**: Building projects with imagination  
-      🎮 **Gamer**: I own this world destroy if i want
-      ✨ **Anime Lover**: Inspired by Japanese storytelling    
-  </br>
-</h3>
-
----
 
 <h1>
   GAME WORLD
 </h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
----
-## 🕹 Favorite Games
--Tomb Raider
--Residend Evil
--Darkest Dungeon
 ---
 
 ## ✨ Anime Energy ✨
