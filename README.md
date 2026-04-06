@@ -20,5 +20,5 @@
 </h2>
 
 <p align="center">
-  <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+  <img src="[https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydTNjeHIxaTZpeWxpM2kxejh2anZjbzNmZnUzNHF0ZzAxcXI1eTdyMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IizHZy80WZbkmHiaVP/giphy.gif)" height="60" align="right"/>
 </p>
