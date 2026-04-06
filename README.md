@@ -1,16 +1,13 @@
-<!-- Anime Themed GitHub Profile README -->
-
 <a href="https://discord.gg/GUpQeNuw" rel="nofollow">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHljdjJlbXZyaG9zcWxwNmw4aXNzNDluNmo5czJ4OGgwMDByMmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBc6l3CqQonqo/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
 </a>
-✨ Gamer • Coding • Creativity ✨  
+✨ Gamer • Coding • Vibing ✨  
 
 ---
 
 ## 🏮 About Me
-- 🐧 **Linux Enthusiast**: Exploring the open-source universe  
-- 👘 **Cosplayer**: Bringing anime characters to life  
 - 💻 **Developer**: Building projects with imagination  
+- 🎮 **Gamer**: I own this world destroy if i want
 - ✨ **Anime Lover**: Inspired by Japanese storytelling  
 
 ---
@@ -19,10 +16,7 @@
 <h5>
   GAME WORLD
 </h5>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif" />
-</p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
 ---
 
 ## 📊 GitHub Stats
