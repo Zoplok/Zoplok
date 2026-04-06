@@ -18,3 +18,7 @@
 <h2 align="center" font="semi-bold">
   “Coding is my ninjutsu, gaming is my quest.”
 </h2>
+
+<p align="center">
+  <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+</p>
