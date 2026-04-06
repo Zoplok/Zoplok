@@ -4,15 +4,17 @@
 ✨ Gamer • Coding • Vibing ✨  
 
 ---
-
-## 🏮 About Me
+<h1 align="center">
+## 🏮 About Me 
+</h1>
+<h3 align="center">
 - 💻 **Developer**: Building projects with imagination  
 - 🎮 **Gamer**: I own this world destroy if i want
-- ✨ **Anime Lover**: Inspired by Japanese storytelling  
+- ✨ **Anime Lover**: Inspired by Japanese storytelling    
+</h3>
 
 ---
 
-##  Vibes
 <h1>
   GAME WORLD
 </h1>
