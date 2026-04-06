@@ -17,7 +17,7 @@
 ---
 
 ## 🎨 Anime Vibes
-![Anime Banner](https://i.imgur.com/dW0zY9F.png)
+![Anime Banner]([https://i.imgur.com/dW0zY9F.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif))
 
 ---
 
