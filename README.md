@@ -1,7 +1,7 @@
 <a href="https://discord.gg/GUpQeNuw" rel="nofollow">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHljdjJlbXZyaG9zcWxwNmw4aXNzNDluNmo5czJ4OGgwMDByMmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBc6l3CqQonqo/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
 </a>
-                                  ✨ Gamer • Coding • Vibing ✨  
+✨ Gamer • Coding • Vibing ✨  
 
 ---
 
@@ -13,9 +13,9 @@
 ---
 
 ##  Vibes
-<h5>
+<h1>
   GAME WORLD
-</h5>
+</h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZtcHRpZmd5bmdxc3kxeDljM3lueGdrMHpoM2swbmV5bDNmZzQ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BAfnPSQvJlAoRBtHvT/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
 ---
 ## 🕹 Favorite Games
