@@ -1,9 +1,8 @@
 <!-- Anime Themed GitHub Profile README -->
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ1aHVqN3d1YnJ1ZXdsb3lrNHAzZmVpenlkcTF6Z3A5MzlwamN1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBc6l3CqQonqo/giphy.gif" />
-</p>
-
+<a href="https://discord.gg/shiba" rel="nofollow">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHljdjJlbXZyaG9zcWxwNmw4aXNzNDluNmo5czJ4OGgwMDByMmgwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VBc6l3CqQonqo/giphy.gif" width="100%" height="auto" alt="Cosplay Community Banner" style="max-width: 100%;">
+</a>
 ✨ Gamer • Coding • Creativity ✨  
 
 ---
